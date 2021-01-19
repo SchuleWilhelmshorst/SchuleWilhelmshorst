@@ -67,7 +67,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/SchuleWilhelmshorst\/Lyon\/Lyon.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/schulewilhelmshorst.github.io\/SchuleWilhelmshorst\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -905,6 +905,19 @@
          "name":"Atlas2_obj_misk_atlas",
          "spacing":0,
          "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":1345,
+         "image":"..\/..\/..\/Schulewilhelmshorst\/SchuleWilhelmshorst\/32x32Sci-Fitileset_tileset.png",
+         "imageheight":512,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"32x32Sci-Fitileset_tileset",
+         "spacing":0,
+         "tilecount":512,
          "tileheight":32,
          "tilewidth":32
         }],
