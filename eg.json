@@ -67,7 +67,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/SchulspielPublic\/hof.json"
+                 "value":"..\/SchuleWilhelmshorst\/hof.json"
                 }],
          "type":"tilelayer",
          "visible":true,
