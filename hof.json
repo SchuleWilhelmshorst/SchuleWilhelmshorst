@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/SchuleWilhelmshorst\/eg.json"
+                 "value":"..\/SchulspielPublic\/eg.json"
                 }],
          "type":"tilelayer",
          "visible":true,
